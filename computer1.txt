@@ -1,0 +1,71 @@
+viper
+
+Processor: AMD A4 Series
+Motherboard: Emaxx A70FM2+ICAFE FM2 AVL MATX
+Memory:4GB capacity; Hard disk: 500GB SATA
+Casing: Trendsonic FC-F55A w/ 600watts
+Keyboard /Mouse Rapoo : USB wired combo
+Monitor:  15.6" 
+Speaker: USB Speaker
+No Optical Drive; AVR: 500watts
+
+? 14,288.00
+
+vengeful
+
+Processor: AMD A4-7300 4.0ghz Dual Core
+Motherboard: Emaxx A70FM2+ICAFE FM2 AVL MATX
+Memory:4GB capacity; DDR3
+Hard disk: 1TB HDD
+Casing: Trendsonic FC-F55A with 600watts Powersupply
+Keyboard /Mouse Rapoo : USB wired combo
+Monitor: AOC 19.53"
+Speaker: USB Speaker
+No Optical Drive; AVR: 500watts
+
+? 14,388.00
+
+Razor
+Processor: AMD A4-7300 4.0ghz Dual Core
+Motherboard: Emaxx A70FM2+ICAFE FM2 AVL MATX
+Memory:4GB capacity; Hard disk: 1 TB HDD
+Casing: ATX casing with 600watts Powersupply
+Keyboard /Mouse Rapoo : USB wired combo
+Monitor: AOC 18.5"
+Speaker: USB Speaker
+No Optical Drive; AVR: 500watts
+
+? 15,288.00
+--------------------------------------------------------------------------------
+Processor: 6th Generation Intel Core i5-6400 Processor 2.7GHz (6M Cache, up to 3.30 GHz)
+Memory: 8GB Single Channel DDR3L 1600MHz (8GBX1)
+Hard Drive: 1TB 7200 rpm SATA 6Gb/s Hard Drive
+Graphics: NVIDIA GeForce 730 2GB GDDR3
+Optical Drive: Tray load DVD Drive (Reads and Writes to DVD/CD)
+Keyboard: Dell KB216 Wired Keyboard Black
+Display: 21.5-INCH DELL Monitor
+Mouse: Dell Optical Mouse-MS116 - Black
+Operating System: Windows 10 Home 
+
+? 39,999.00
+
+Intel Core i3-4160 Haswell Dual-Core 3.6GHz LGA 1150 54W 
+Motherboard: Gigabyte GA-H81M-DS2 
+Video Intel HD Integrated in Processor
+No optical drive
+Memory: Kingston 4GB DDR3 1600MHz
+Hard disk: 500GB Toshiba SATA III 
+Monitor: 18.5" HKC LED Widescreen
+Casing with PSU 
+No pre-installed OS
+
+? 29,068.98
+
+APU Series.(Accelerated Processing Unit)
+AMD A10-7860K Godavari 12 Compute Cores (4 CPU + 8 GPU) 3.6GHz with AMD quiet cooler Quad-Core 65W
+Motherboard Gigabyte A68
+Video SAPPHIRE Radeon R7 250 2G GDDR5
+Memory8GB DDR3 1600MHz (2 x 4GB)
+Hard Disk 1TBTOSHIBA SATA III
+
+? 22,999.00
